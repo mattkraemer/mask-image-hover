@@ -18,7 +18,7 @@ body, html {
   top: 0;
   z-index: 10;
   background: black;
-  -webkit-mask-image: radial-gradient(circle at 50% 50%,black 10%,rgba(0,0,0,0.1) 50%);
+  -webkit-mask-image: radial-gradient(circle at 50% 50%,rgba(0,0,0,0.75) 10%,rgba(0,0,0,0.1) 50%);
   -webkit-mask-position: 50% 50%;
   -webkit-mask-size: 200% 200%;
   -webkit-mask-repeat: no-repeat;
